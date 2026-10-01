@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ## About Me<br><br> 🎓 B.Tech CSE (AI & ML) student<br> 💻 Interested in Python, AI & Machine Learning<br> 🐍 Currently improving Python & DSA<br> 🤖 Learning Machine Learning by building projects<br> 📚 Practicing coding consistently<br> 🚀 Working on a 100-Day Python DSA Challenge<br>🔧 Interested in building practical and useful projects<br> 📈 Always learning and improving my skills<br>
 
 
